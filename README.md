@@ -1,16 +1,144 @@
-## Hi there 👋
+<!-- ===================== TYPING INTRO (RED THEME) ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&color=FF0000&lines=Hi%2C+I'm+Suman;Web+Developer+from+India;Full+Stack+Learner;Anime+Lover+%F0%9F%8E%8C;Always+Learning+New+Things+%F0%9F%92%AA" />
+</p>
 
-<!--
-**Suman0703/Suman0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ===================== CUTE ANIME GIRL INTRO (LOCAL IMAGE) ===================== -->
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm <span style="color:red;">Suman Devi</span></h1>
+<h3 align="center">❤️ A Passionate Web Developer from India | Full-Stack Learner</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ===================== RED PROFILE VIEWS BADGE ===================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suman0703&label=Profile%20Views&color=red&style=flat" alt="suman0703" />
+</p>
+
+<!-- ===================== WORKING SNAKE ANIMATION ===================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🚀 About Me  
+
+<table>
+  <tr>
+    <td>
+
+- 🔭 Currently working on **Frontend Projects**  
+- 🌱 Currently learning **Advanced JavaScript**  
+- 👯 Looking to collaborate on **Web Development Projects**  
+- 🤝 Looking for help with **Backend Optimization & DevOps Basics**  
+- 👨‍💻 All projects available at →  
+  👉 <a href="https://github.com/Suman0703" target="_blank">github.com/Suman0703</a>  
+- 📝 Writing articles → <b>Coming Soon</b>  
+- 💬 Ask me about:
+  - HTML, CSS, JavaScript  
+  - Node.js, Express  
+  - MongoDB, Backend APIs  
+  - Anime 😄  
+- 📫 Reach me at → <b>sumandevimehmi36@gmail.com</b>  
+- 📄 My Resume → <b>Coming Soon</b>  
+- ⚡ Fun Fact → <i>I love watching anime and learning new technologies every day ⚡</i>  
+
+   </td>
+   <td align="center">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180" />
+      <br/>
+      <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="180" />
+   </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="left">
+  <a href="https://twitter.com/suman_mehmi0307" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/suman-devi-220241348" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+
+  <a href="https://www.instagram.com/smehmi07" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/sumandevimehmi36" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+## 🛠 Languages & Tools  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js">
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb">
+</p>
+
+<!-- ICON ROWS -->
+<p align="center">
+  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C"/></a>
+  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/></a>
+  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" alt="Express"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/></a>
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/></a>
+  <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" alt="Oracle"/></a>
+  <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React"/></a>
+</p>
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suman0703&show_icons=true&theme=radical&cache_seconds=1800" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman0703&layout=compact&theme=radical&cache_seconds=1800" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suman0703&theme=radical" height="170"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suman0703&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+## 🎌 Anime + Dev Vibes  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="250"/>
+</p>
+
+<p align="center">
+  <b>“Code. Debug. Watch anime. Repeat.”</b>
+</p>
+
+---
+
+⭐ <i>If you like my profile, don’t forget to star my repositories!</i>  
+
+<!-- ===================== FOOTER (RED THEME) ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+</p>
