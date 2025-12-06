@@ -12,7 +12,7 @@
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:red;">Suman Devi</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:red;">Suman</span></h1>
 <h3 align="center">❤️ A Passionate Web Developer from India | Full-Stack Learner</h3>
 
 <!-- ===================== RED PROFILE VIEWS BADGE ===================== -->
