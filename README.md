@@ -4,6 +4,13 @@
 </p>
 
 <!-- ===================== CUTE ANIME GIRL INTRO (LOCAL IMAGE) ===================== -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Suman0703/Suman0703/main/avatar.png"
+    width="220"
+    alt="Suman Devi Anime Avatar"
+  />
+</p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:red;">Suman Devi</span></h1>
 <h3 align="center">❤️ A Passionate Web Developer from India | Full-Stack Learner</h3>
