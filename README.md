@@ -159,19 +159,11 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=suman0703&theme=onedark&row=1&column=6" 
-    alt="GitHub Trophies"
-    style="max-width: 100%; height: auto;"
-  />
-</p>
-
+<h2 align="center"> My Contributions </h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suman0703&radius=16&theme=github-dark&area=true&order=5" height="250" alt="activity-graph graph" />
+</div>
 ---
-
 ## 🎌 Anime + Dev Vibes  
 
 <p align="center">
