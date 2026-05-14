@@ -7,16 +7,21 @@
   />
 </p>
 
-<!-- ===================== CUTE ANIME GIRL INTRO (LOCAL IMAGE) ===================== -->
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Suman0703/Suman0703/main/avatar.png"
+  <img
+    src="https://github.com/user-attachments/assets/10a4e410-1a41-44f9-a1e7-661dd030ef8e"
+    alt="Anime Cat Avatar"
     width="220"
-    alt="Suman Devi Anime Avatar"
-    style="max-width: 100%; height: auto;"
+    height="220"
+    style="
+      border-radius: 50%;
+      border: 4px solid black;
+      background: white;
+      padding: 6px;
+      object-fit: cover;
+    "
   />
 </p>
-
 <h1 align="center">Hi 👋, I'm <span style="color:red;">Suman</span></h1>
 <h3 align="center">❤️ A Passionate Web Developer from India | Full-Stack Learner</h3>
 
