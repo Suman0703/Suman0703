@@ -6,7 +6,7 @@
 <!-- Profile Pic -->
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/10a4e410-1a41-44f9-a1e7-661dd030ef8e"
+    src="https://raw.githubusercontent.com/Suman0703/Suman0703/main/Avatar.png"
     alt="Anime Cat Avatar"
     width="220"
     height="220"
