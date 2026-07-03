@@ -75,14 +75,29 @@
 
 ### 🚀 Top Projects
 
-| Project Name | Tech Stack | Description | Link |
-| :--- | :--- | :--- | :--- |
-| **Campus Connect** | `MERN` `Tailwind` | Full-stack platform to digitize university grievance reporting with role-based dashboards for students and admins. | [Live Demo](https://campus-connect-problem-resolver.vercel.app) |
-| **Sky Builder** | `MERN` `GenAI` `Tailwind` | AI-powered resume generation platform using Groq API (LLaMA 3.1) to create professional, ATS-friendly PDFs. | [Live Demo](https://sky-builder-ai-resume.vercel.app) |
-| **CityCare** | `MERN` `Tailwind` | Civic issue reporting platform featuring real-time status tracking, image uploads, and secure RESTful APIs. | [Live Demo](https://citycarepseudocoders.vercel.app) |
-| **ReduxShop** | `React` `Redux` `Tailwind` | Mini e-commerce application demonstrating modern state management practices using Redux Toolkit. | [Live Demo](https://rtk-shopping-cart-puce.vercel.app) |
-| **Moz Dashboard Clone** | `React` `Tailwind` | High-fidelity frontend clone with custom drawer functionality, dynamic mega-menus, and client-side routing. | [Live Demo](https://moz-domain-analysis-clone.vercel.app) |
-| **Password Generator** | `React` `Tailwind` | Responsive web application built using React Hooks for generating highly secure, customizable passwords. | [Live Demo](https://react-password-generator-coral-zeta.vercel.app) |
+> 🎓 **[Campus Connect](https://campus-connect-problem-resolver.vercel.app)** 
+> <br> Full-stack platform to digitize university grievance reporting with role-based dashboards for students and admins.
+> <br> 🛠️ **Tech:** `MERN` • `Tailwind CSS`
+
+> 🌌 **[Sky Builder](https://sky-builder-ai-resume.vercel.app)**
+> <br> AI-powered resume generation platform using Groq API (LLaMA 3.1) to create professional, ATS-friendly PDFs.
+> <br> 🛠️ **Tech:** `MERN` • `GenAI` • `Tailwind CSS`
+
+> 🏙️ **[CityCare](https://citycarepseudocoders.vercel.app)**
+> <br> Civic issue reporting platform featuring real-time status tracking, image uploads, and secure RESTful APIs.
+> <br> 🛠️ **Tech:** `MERN` • `Tailwind CSS`
+
+> 🛒 **[ReduxShop](https://rtk-shopping-cart-puce.vercel.app)**
+> <br> Mini e-commerce application demonstrating modern state management practices using Redux Toolkit.
+> <br> 🛠️ **Tech:** `React` • `Redux` • `Tailwind CSS`
+
+> 📊 **[Moz Dashboard Clone](https://moz-domain-analysis-clone.vercel.app)**
+> <br> High-fidelity frontend clone with custom drawer functionality, dynamic mega-menus, and client-side routing.
+> <br> 🛠️ **Tech:** `React` • `Tailwind CSS`
+
+> 🔐 **[Password Generator](https://react-password-generator-coral-zeta.vercel.app)**
+> <br> Responsive web application built using React Hooks for generating highly secure, customizable passwords.
+> <br> 🛠️ **Tech:** `React` • `Tailwind CSS`
 
 ---
 
