@@ -4,7 +4,7 @@
 
   <!-- Typing Animation -->
   <a href="https://github.com/Suman0703">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=700&height=50&lines=Hey+there!+%F0%9F%91%8B+I'm+Suman;Full+Stack+Web+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%E2%9A%99%EF%B8%8F;UI%2FUX+Aesthetic+Lover+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=700&height=50&lines=Hey+there!+%F0%9F%91%8B+I'm+Suman;Full+Stack+Web+Developer+%F0%9F%92%BB;MERN+Stack+%2B+GenAI+Builder+%E2%9A%99%EF%B8%8F;Turning+Ideas+into+Products+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,9 +15,9 @@
   <a href="https://github.com/Suman0703">
     <img src="https://raw.githubusercontent.com/Suman0703/Suman0703/main/Avatar.png" width="180" height="180" style="border-radius: 50%; border: 3px solid #00FF99; box-shadow: 0 0 15px #00FF99; object-fit: cover; background: white;" alt="Suman Profile Pic">
   </a>
-  
+
   <br><br>
-  
+
   <!-- Profile Views and Followers -->
   <p align="center">
     <a href="https://github.com/Suman0703">
@@ -28,7 +28,7 @@
       <img src="https://img.shields.io/github/followers/suman0703?label=FOLLOWERS&style=for-the-badge&color=00FF99&labelColor=0D1117" alt="Followers" />
     </a>
   </p>
-  
+
   <br>
 
   <!-- Snake Animation -->
@@ -62,56 +62,88 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF">
 
-- 🎓 **B.Tech Computer Science & Engineering** student at Rayat Bahra Professional University (CGPA: 8.37/10).
-- 💻 Building modern, scalable full-stack web applications primarily using the **MERN** stack and **Tailwind CSS**.
-- 🏆 **2x Hackathon Winner** (IIT Roorkee Cognizance Snap Syntax & RBPU Full Stack Hackathon).
-- ☁️ **Oracle Cloud AI Foundations Certified** (2025).
-- 🧠 Strong foundation in **Data Structures & Algorithms, REST APIs, and UI/UX design**.
-- ⚡ **Fun Fact:** I debug faster after an anime episode!
+- 🎓 B.Tech Computer Science & Engineering student at Rayat Bahra Professional University — CGPA **8.37/10**
+- 🧭 Placement Coordinator for the CSE department, bridging students and recruiters
+- 💻 Building modern, scalable full-stack apps with the **MERN** stack, **Tailwind CSS**, and **Generative AI**
+- 🏆 Hackathon finalist — **2nd place, IIT Roorkee Cognizance 2026** & **2nd place, RBPU Full Stack Hackathon**
+- ☁️ **Oracle Cloud AI Foundations** & **Microsoft Azure AI Fundamentals** certified
+- 🧠 Strong foundation in **Data Structures & Algorithms, REST APIs, and UI/UX design**
+- 📫 Open to **internship & full-time Software Development** opportunities
+- ⚡ Fun fact: I debug faster after an anime episode
 
-<br>
+<br clear="both">
 
 ---
 
-### 🚀 Top Projects
+### 🚀 Featured Projects
 
-> 🎓 **[Campus Connect](https://campus-connect-problem-resolver.vercel.app)** 
-> <br> Full-stack platform to digitize university grievance reporting with role-based dashboards for students and admins.
-> <br> 🛠️ **Tech:** `MERN` • `Tailwind CSS`
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🎓 <a href="https://campus-connect-problem-resolver.vercel.app">Campus Connect</a></h4>
+      Full-stack platform to digitize university grievance reporting, with role-based dashboards for students and admins.
+      <br><br>
+      <code>MERN</code> <code>Tailwind CSS</code>
+    </td>
+    <td width="50%">
+      <h4>🌌 <a href="https://sky-builder-ai-resume.vercel.app">Sky Builder</a></h4>
+      AI-powered resume builder using the Groq API (LLaMA 3.1) to generate professional, ATS-friendly PDFs.
+      <br><br>
+      <code>MERN</code> <code>GenAI</code> <code>Tailwind CSS</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🏙️ <a href="https://citycarepseudocoders.vercel.app">CityCare</a></h4>
+      Civic issue reporting platform with real-time status tracking, image uploads, and secure RESTful APIs.
+      <br><br>
+      <code>MERN</code> <code>Tailwind CSS</code>
+    </td>
+    <td width="50%">
+      <h4>🛒 <a href="https://rtk-shopping-cart-puce.vercel.app">ReduxShop</a></h4>
+      Mini e-commerce app showcasing modern state management with Redux Toolkit.
+      <br><br>
+      <code>React</code> <code>Redux</code> <code>Tailwind CSS</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>📊 <a href="https://moz-domain-analysis-clone.vercel.app">Moz Dashboard Clone</a></h4>
+      High-fidelity frontend clone with a custom drawer, dynamic mega-menus, and client-side routing.
+      <br><br>
+      <code>React</code> <code>Tailwind CSS</code>
+    </td>
+    <td width="50%">
+      <h4>🔐 <a href="https://react-password-generator-coral-zeta.vercel.app">Password Generator</a></h4>
+      Responsive password generator built with React Hooks, fully customizable and secure.
+      <br><br>
+      <code>React</code> <code>Tailwind CSS</code>
+    </td>
+  </tr>
+</table>
 
-> 🌌 **[Sky Builder](https://sky-builder-ai-resume.vercel.app)**
-> <br> AI-powered resume generation platform using Groq API (LLaMA 3.1) to create professional, ATS-friendly PDFs.
-> <br> 🛠️ **Tech:** `MERN` • `GenAI` • `Tailwind CSS`
-
-> 🏙️ **[CityCare](https://citycarepseudocoders.vercel.app)**
-> <br> Civic issue reporting platform featuring real-time status tracking, image uploads, and secure RESTful APIs.
-> <br> 🛠️ **Tech:** `MERN` • `Tailwind CSS`
-
-> 🛒 **[ReduxShop](https://rtk-shopping-cart-puce.vercel.app)**
-> <br> Mini e-commerce application demonstrating modern state management practices using Redux Toolkit.
-> <br> 🛠️ **Tech:** `React` • `Redux` • `Tailwind CSS`
-
-> 📊 **[Moz Dashboard Clone](https://moz-domain-analysis-clone.vercel.app)**
-> <br> High-fidelity frontend clone with custom drawer functionality, dynamic mega-menus, and client-side routing.
-> <br> 🛠️ **Tech:** `React` • `Tailwind CSS`
-
-> 🔐 **[Password Generator](https://react-password-generator-coral-zeta.vercel.app)**
-> <br> Responsive web application built using React Hooks for generating highly secure, customizable passwords.
-> <br> 🛠️ **Tech:** `React` • `Tailwind CSS`
+<div align="center">
+  <sub>🔎 More on <a href="https://github.com/Suman0703?tab=repositories">GitHub</a></sub>
+</div>
 
 ---
 
 ### ⚡ Skills & Arsenal
 
 <div align="center">
-  <h4><b>Frontend</b></h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&theme=dark" alt="Frontend Skills" />
-  
-  <h4><b>Backend & Databases</b></h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,c,cpp,php&theme=dark" alt="Backend Skills" />
 
-  <h4><b>Tools & Platforms</b></h4>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode&theme=dark" alt="Tools" />
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&theme=dark" alt="Frontend Skills" />
+
+**Backend & Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,c,cpp,php&theme=dark" alt="Backend Skills" />
+
+**Tools & Platforms**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode&theme=dark" alt="Tools" />
+
 </div>
 
 <br>
@@ -136,7 +168,7 @@
 
 <div align="center">
   <h3>Thanks for stopping by! 🚀</h3>
-  <i>⭐ If you like my projects or aesthetic, don’t forget to leave a star! ⭐</i>  
+  <i>⭐ If you like my projects or aesthetic, don't forget to leave a star! ⭐</i>
 </div>
 
 <div align="center">
