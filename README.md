@@ -75,56 +75,8 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🎓 <a href="https://campus-connect-problem-resolver.vercel.app">Campus Connect</a></h4>
-      Full-stack platform to digitize university grievance reporting, with role-based dashboards for students and admins.
-      <br><br>
-      <code>MERN</code> <code>Tailwind CSS</code>
-    </td>
-    <td width="50%">
-      <h4>🌌 <a href="https://sky-builder-ai-resume.vercel.app">Sky Builder</a></h4>
-      AI-powered resume builder using the Groq API (LLaMA 3.1) to generate professional, ATS-friendly PDFs.
-      <br><br>
-      <code>MERN</code> <code>GenAI</code> <code>Tailwind CSS</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🏙️ <a href="https://citycarepseudocoders.vercel.app">CityCare</a></h4>
-      Civic issue reporting platform with real-time status tracking, image uploads, and secure RESTful APIs.
-      <br><br>
-      <code>MERN</code> <code>Tailwind CSS</code>
-    </td>
-    <td width="50%">
-      <h4>🛒 <a href="https://rtk-shopping-cart-puce.vercel.app">ReduxShop</a></h4>
-      Mini e-commerce app showcasing modern state management with Redux Toolkit.
-      <br><br>
-      <code>React</code> <code>Redux</code> <code>Tailwind CSS</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>📊 <a href="https://moz-domain-analysis-clone.vercel.app">Moz Dashboard Clone</a></h4>
-      High-fidelity frontend clone with a custom drawer, dynamic mega-menus, and client-side routing.
-      <br><br>
-      <code>React</code> <code>Tailwind CSS</code>
-    </td>
-    <td width="50%">
-      <h4>🔐 <a href="https://react-password-generator-coral-zeta.vercel.app">Password Generator</a></h4>
-      Responsive password generator built with React Hooks, fully customizable and secure.
-      <br><br>
-      <code>React</code> <code>Tailwind CSS</code>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <sub>🔎 More on <a href="https://github.com/Suman0703?tab=repositories">GitHub</a></sub>
-</div>
+🚀 Featured Projects
+<table> <tr> <td width="50%" valign="top"> <div style="border: 1.5px solid #00FF99; border-radius: 14px; padding: 18px; background-color: #0D1117; box-shadow: 0 0 10px rgba(0,255,153,0.15);"> <h4>🎓 Campus Connect</h4> Full-stack platform to digitize university grievance reporting, with role-based dashboards for students and admins. <br><br> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <br><br> <a href="https://campus-connect-problem-resolver.vercel.app"><img src="https://img.shields.io/badge/🔗_Live_Demo-00FF99?style=flat-square&logoColor=black" /></a> </div> </td> <td width="50%" valign="top"> <div style="border: 1.5px solid #00FF99; border-radius: 14px; padding: 18px; background-color: #0D1117; box-shadow: 0 0 10px rgba(0,255,153,0.15);"> <h4>🌌 Sky Builder</h4> AI-powered resume builder using the Groq API (LLaMA 3.1) to generate professional, ATS-friendly PDFs. <br><br> <img src="https://img.shields.io/badge/MERN-Stack-4EA94B?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/GenAI-Groq_API-FF6F00?style=flat-square&logo=lightning&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <br><br> <a href="https://sky-builder-ai-resume.vercel.app"><img src="https://img.shields.io/badge/🔗_Live_Demo-00FF99?style=flat-square&logoColor=black" /></a> </div> </td> </tr> <tr> <td width="50%" valign="top"> <div style="border: 1.5px solid #00FF99; border-radius: 14px; padding: 18px; background-color: #0D1117; box-shadow: 0 0 10px rgba(0,255,153,0.15);"> <h4>🏙️ CityCare</h4> Civic issue reporting platform with real-time status tracking, image uploads, and secure RESTful APIs. <br><br> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <br><br> <a href="https://citycarepseudocoders.vercel.app"><img src="https://img.shields.io/badge/🔗_Live_Demo-00FF99?style=flat-square&logoColor=black" /></a> </div> </td> <td width="50%" valign="top"> <div style="border: 1.5px solid #00FF99; border-radius: 14px; padding: 18px; background-color: #0D1117; box-shadow: 0 0 10px rgba(0,255,153,0.15);"> <h4>🛒 ReduxShop</h4> Mini e-commerce app showcasing modern state management with Redux Toolkit. <br><br> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <br><br> <a href="https://rtk-shopping-cart-puce.vercel.app"><img src="https://img.shields.io/badge/🔗_Live_Demo-00FF99?style=flat-square&logoColor=black" /></a> </div> </td> </tr> <tr> <td width="50%" valign="top"> <div style="border: 1.5px solid #00FF99; border-radius: 14px; padding: 18px; background-color: #0D1117; box-shadow: 0 0 10px rgba(0,255,153,0.15);"> <h4>📊 Moz Dashboard Clone</h4> High-fidelity frontend clone with a custom drawer, dynamic mega-menus, and client-side routing. <br><br> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <br><br> <a href="https://moz-domain-analysis-clone.vercel.app"><img src="https://img.shields.io/badge/🔗_Live_Demo-00FF99?style=flat-square&logoColor=black" /></a> </div> </td> <td width="50%" valign="top"> <div style="border: 1.5px solid #00FF99; border-radius: 14px; padding: 18px; background-color: #0D1117; box-shadow: 0 0 10px rgba(0,255,153,0.15);"> <h4>🔐 Password Generator</h4> Responsive password generator built with React Hooks, fully customizable and secure. <br><br> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <br><br> <a href="https://react-password-generator-coral-zeta.vercel.app"><img src="https://img.shields.io/badge/🔗_Live_Demo-00FF99?style=flat-square&logoColor=black" /></a> </div> </td> </tr> </table> <div align="center"> <sub>🔎 More on <a href="https://github.com/Suman0703?tab=repositories">GitHub</a></sub> </div>
 
 ---
 
