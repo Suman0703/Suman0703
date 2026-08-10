@@ -119,7 +119,7 @@
 ---
 
 <div align="center">
-  <h3>Thanks for stopping by! 🚀</h3>
+  <h3>Thanks for stopping by! 💕☺️</h3>
   <i>⭐ If you like my projects or aesthetic, don't forget to leave a star! ⭐</i>
 </div>
 
