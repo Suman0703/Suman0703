@@ -127,3 +127,4 @@
   <!-- Animated Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=120&section=footer&animation=twinkling" alt="Footer Gradient" style="max-width: 100%; height: auto;" />
 </div>
+
