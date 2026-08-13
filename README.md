@@ -1,7 +1,7 @@
 <div align="center">
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Suman%20Devi&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20GenAI%20Builder&descAlignY=55&descSize=18" alt="Header Gradient" style="max-width: 100%; height: auto;" />
-
+  <!-- Animated Header --> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=150&section=header&text=Suman%20Devi&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Gradient" style="max-width: 100%; height: auto;" />
+  
   <!-- Typing Animation -->
   <a href="https://github.com/Suman0703">
     <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=700&height=50&lines=Hey+there!+%F0%9F%91%8B+I'm+Suman;Full+Stack+Web+Developer+%F0%9F%92%BB;MERN+Stack+%2B+GenAI+Builder+%E2%9A%99%EF%B8%8F;Turning+Ideas+into+Products+%E2%9C%A8;Check+out+my+Portfolio+%F0%9F%91%89+sumandevi.vercel.app" alt="Typing SVG" />
